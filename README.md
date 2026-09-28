@@ -1,7 +1,7 @@
-## Hi, I'm Raymond! 👋
+## Hi, I'm Raymond! 
 
 - 🎓 Currently a Senior Computer Science student at the University of Michigan
-
+- How to reach me: caor (at) umich.edu, https://www.linkedin.com/in/raymondcao-umich/
 
 <!--
 **Craymond0/Craymond0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
