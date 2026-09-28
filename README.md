@@ -1,7 +1,6 @@
 ## Hi, I'm Raymond! 👋
 
-- 🎓 Currently studying Computer Science at the University of Michigan
-
+- 🎓 Currently a Senior Computer Science student at the University of Michigan
 
 
 <!--
